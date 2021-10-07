@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Chris Spence - Software Engineer'
+
+theme = 'hugo-scroll'
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+defaultContentLanguage = "en"
+
+[params]
+    copyright = "© Christopher Spence"
+    description = "Chris Spence - Software Engineer, Architect & Consultant"
+    favicon = "images/favicon-32x32.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["images/sigmund-adapter.jpg"]
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Chris Spence - Software Engineer, Architect & Consultant"
+    hidedesignbyline = true
+
+    [params.meta]
+        keywords = "cv, curriculum vitae, software, engineer, software engineer, developer, java, react, spring, spring boot, springboot, react, javascript, js, go, golang"
