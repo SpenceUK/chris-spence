@@ -1,10 +1,12 @@
 ---
 title: "Code"
-weight: 3
+weight: 2
 header_menu: true
 date: 2021-10-07T16:34:11+01:00
 draft: true
 ---
+
+![Code](images/ilya-pavlov.jpg)
 
 The main software languages, libraries and frameworks that make up the bulk of my experience are listed below.
 
@@ -12,7 +14,7 @@ The main software languages, libraries and frameworks that make up the bulk of m
 
 #### Languages
 
-Java, Javascript, PHP, Python, GoLang
+Java, Javascript, Golang, Python, PHP
 
 #### Server Side
 
