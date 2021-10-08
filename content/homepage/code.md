@@ -22,6 +22,6 @@ Spring Boot, Project Reactor, Node, MySQL, MongoDB, RabbitMQ
 
 #### Client Side
 
-HTML 5, CSS, React, Redux, Liquid, Twig, Bootstrap, Hugo
+HTML 5, CSS, React, Redux, Liquid, Twig, Bootstrap
 
 ---

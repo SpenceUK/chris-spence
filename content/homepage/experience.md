@@ -13,7 +13,7 @@ Senior Software Engineer — 2018–Present.
 The Manchester Digital Delivery Centre is an Agile development arm at Jaguar Land Rover leading the companies digital transformation.
 As a founding member of the digital delivery team I have designed and lead several key projects for Jaguar Land Rover.
 
-Software Over the Air vehicle updates, Onboard and Offboard vehicle software packaging and release systems, Engineering change design and bill of material management system.
+Software Over the Air vehicle updates, Onboard and Offboard vehicle software packaging and release systems, Engineering change design and bill of material management application.
 
 ---
 

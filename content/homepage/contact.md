@@ -4,6 +4,6 @@ weight: 99
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[christopherspenceuk@outlook.com](mailto:christopherspenceuk@outlook.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[hello@chris-spence.com](mailto:hello@chris-spence.com)
 
 Get in touch!
