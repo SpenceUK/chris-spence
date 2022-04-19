@@ -12,6 +12,6 @@ I'm a software developer and architect.
 
 I am based in the North West of England in the Manchester region.
 
-I currently work remotely whilst occassionally visiting the office for meetings and gatherings.
+I currently work remotely whilst occasionally visiting the office for meetings and gatherings.
 
 Contact me if you have an interesting opportunity.
