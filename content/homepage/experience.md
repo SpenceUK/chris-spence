@@ -6,9 +6,21 @@ header_menu: true
 
 ![coding](images/cookie-the-pom.jpg)
 
+#### Ticketmaster and Live Nation UK, North America & Canada
+
+Senior Software Engineer — 2022–Present.
+
+Enterprise Engineering - Ticketing Management, International Payments and Ticketing.
+
+Designing and building the next generation 3DSecure global payments platform for online and on location.
+
+Full Stack software engineering: Client side, Server side and platform engineering.
+
+---
+
 #### Jaguar Land Rover
 
-Senior Software Engineer — 2018–Present.
+Senior Software Engineer — 2018–2022.
 
 The Manchester Digital Delivery Centre is an Agile development arm at Jaguar Land Rover leading the companies digital transformation.
 As a founding member of the digital delivery team I have designed and lead several key projects for Jaguar Land Rover.

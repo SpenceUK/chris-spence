@@ -1,2 +1,7 @@
 *.zip
 .DS_Store
+README.md
+/themes/*
+.git
+/public
+/resources

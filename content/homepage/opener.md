@@ -6,12 +6,10 @@ header_menu: false
 
 ![Chris Spence](images/Chris-Spence.jpg)
 
-Hi, thanks for taking the time to view my details.
+Hi, thanks for taking the time to view my profile.
 
-I'm a software developer and architect.
+I'm a software engineer and architect.
 
-I am based in the North West of England in the Manchester region.
+I am currently based in the North West of England in the Manchester region.
 
-I currently work remotely whilst occasionally visiting the office for meetings and gatherings.
-
-Contact me if you have an interesting opportunity.
+I currently work remotely whilst occasionally visiting the offices in London, North America and Canada for monthly meetings and gatherings.

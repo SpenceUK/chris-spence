@@ -14,11 +14,12 @@ The main software languages, libraries and frameworks that make up the bulk of m
 
 #### Languages
 
-Java, Javascript, Golang, Python, PHP
+Java, Kotlin, Javascript, Typescript, Golang, Python, PHP
 
 #### Server Side
 
-Spring Boot, Project Reactor, Node, MySQL, MongoDB, RabbitMQ
+Spring Boot(MVC, Webflux), Project Reactor, Node, MySQL, Cassandra/ScyllaDB, DynamoDB, MongoDB, RabbitMQ,
+Kubernetes, Docker, ArgoCD, Terraform.
 
 #### Client Side
 
